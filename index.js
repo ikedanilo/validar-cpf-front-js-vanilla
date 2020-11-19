@@ -1,4 +1,4 @@
-const URL="https://git.heroku.com/java-spring-dikeda.git/validacpf?cpf="
+const URL="https://java-spring-dikeda.herokuapp.com/validacpf?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
